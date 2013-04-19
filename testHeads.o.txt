@@ -1,0 +1,2 @@
+Name DD-MM-YYYY Classy? Scores
+character32 integer3 logical numeric5
